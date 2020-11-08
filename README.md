@@ -1,6 +1,9 @@
 # mutual-information-based-disentangled-neural-networks
-Code for paper ''Mutual Information-based Disentangled Neural Networks for Classifying Unseen Categories in Different Domains: Application to Fetal Ultrasound Imaging'
+Code for paper ''Mutual Information-based Disentangled Neural Networks for Classifying Unseen Categories in Different Domains: Application to Fetal Ultrasound Imaging' **Code is coming soon**
 
+<p align="center">
+    <img src="images/outline.png" width="85%" height="85%">
+</p>
 <p align="center">
     <img src="images/method.png" width="85%" height="85%">
 </p>
