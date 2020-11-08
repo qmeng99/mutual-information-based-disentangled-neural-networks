@@ -15,7 +15,7 @@ Code for paper ''Mutual Information-based Disentangled Neural Networks for Class
  author = {Qingjie Meng and Jacqueline Matthew and Veronika A. Zimmer and Alberto Gomez and David F. A. Lloyd and Daniel Rueckert and Bernhard Kainz},
  title = {Mutual Information-based Disentangled Neural Networks for Classifying Unseen Categories in Different Domains: Application to Fetal Ultrasound Imaging},
  journal = {IEEE Transactions on Medical Imaging},
- month = Novermber,
+ month = October,
  year = {2020},
  issn = {0278-0062},
  publisher = {IEEE},
