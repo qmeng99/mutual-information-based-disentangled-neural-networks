@@ -22,3 +22,5 @@ Code for paper ''Mutual Information-based Disentangled Neural Networks for Class
 }
 ```
 If you make use of the code, please cite the paper in any resulting publications.
+
+This code (residual_def.py) uses the residual unit from toolkit DLTK (https://dltk.github.io/). Please install the DLTK before using residual_modef.py
