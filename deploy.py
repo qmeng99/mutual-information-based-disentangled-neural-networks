@@ -121,7 +121,6 @@ def main():
                 feed_dict=feed_dict)
 
 
-
             print ('lossce_anat: {}'.format(loss_soft_anat))
 
 
