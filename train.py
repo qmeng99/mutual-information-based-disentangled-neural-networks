@@ -286,7 +286,7 @@ def build_gpu():
 
 
         # -----------------------Total loss
-        loss = w_cls * anat_cls_loss + w_reco * recon_loss + w_info * info_loss + w_internal * interloss + w_invar * invarloss
+        loss = w_cls * anat_cls_loss + w_reco * recon_loss + w_info * (-1 * info_loss) + w_internal * interloss + w_invar * invarloss
 
         # ------------------optimization----------------------------
         mine_joint_var = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, 'mine_joint')
